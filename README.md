@@ -14,6 +14,7 @@ Here are some of the projects I've worked on:
 
 1. Attendance Management System: Android App used to maintain the attendance of students within an organization.
 2. Housie Haven: A Housie game which allows both number picker and players to play with same app.
+3. Presence: An attendence management app for employees using flutter.
 
 ## Skills
 
